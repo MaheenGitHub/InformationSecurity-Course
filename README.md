@@ -1,6 +1,6 @@
 # Information Security Course Material (ITF22)
 
-This repository contains **Information Security course material** that I studied in my previous semester as part of my BSIT degree.
+This repository contains **Information Security course material** that I studied in my 7th semester as part of my BSIT degree.
 
 The purpose of creating this repository is:
 - 📚 To help **junior students** easily access study material  
