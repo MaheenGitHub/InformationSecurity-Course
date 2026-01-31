@@ -1,0 +1,1 @@
+ls, cat, du, exit, ssh, clear, whoami, pwd, df -h,  cd, ifconfig, find, file, ping
